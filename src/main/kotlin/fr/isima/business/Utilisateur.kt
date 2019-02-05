@@ -1,5 +1,6 @@
 package fr.isima.business
 
+
 import java.util.concurrent.CopyOnWriteArrayList
 import java.util.concurrent.atomic.AtomicInteger
 
